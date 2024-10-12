@@ -7,8 +7,7 @@
 
 - 💾 My Tryhackme account
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/exorcism.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/exorcism.png?update=3"/>
 
 
 <h3 align="left">Connect with me:</h3>
