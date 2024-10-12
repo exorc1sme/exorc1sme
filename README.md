@@ -7,7 +7,7 @@
 
 - 💾 My Tryhackme account
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3205447" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/exorcism.png" alt="nga"/>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://discord.com/998801413712920637" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/998801413712920637" height="30" width="40" /></a>
